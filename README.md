@@ -475,10 +475,10 @@ Screenshot 1
 https://github.com/paathufathima56-debug/Unnimutta/blob/main/homepage.png
 
 Screenshot 2
-
+https://github.com/paathufathima56-debug/Unnimutta/blob/main/leaderboard.png
 
 Screenshot 3
-
+https://github.com/paathufathima56-debug/Unnimutta/blob/main/analysis.png
 
 
 
