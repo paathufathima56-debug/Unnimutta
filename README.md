@@ -470,6 +470,16 @@ Video
 Description: The video demonstrates the complete Unnimutta experience, from the opening animation and egg upload through yolk measurement, comparison, results, achievements, chicken dance, leaderboard and mini-game.
 
 ---
+Screenshot
+Screenshot 1
+https://github.com/paathufathima56-debug/Unnimutta/blob/main/homepage.png
+
+Screenshot 2
+
+
+Screenshot 3
+
+
 
 
 
