@@ -465,7 +465,7 @@ Caption: Unnimutta is primarily a client-side web application. The user interfac
 
 Video
 
-[Add your demo video link here]
+(https://github.com/paathufathima56-debug/Unnimutta/blob/main/UNNIMUTTA%20%E2%80%94%20The%20Unnecessarily%20Serious%20Double-Yolk%20Analyzer%20-%20Google%20Chrome%202026-09-11%2018-15-32.mp4)
 
 Description: The video demonstrates the complete Unnimutta experience, from the opening animation and egg upload through yolk measurement, comparison, results, achievements, chicken dance, leaderboard and mini-game.
 
